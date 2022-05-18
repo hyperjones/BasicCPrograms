@@ -29,3 +29,7 @@ int main()
    
    return 0;
 }
+/*
+ this program produces output of repeated digit more than 1
+ repeated digit should be printed only one time
+*/
